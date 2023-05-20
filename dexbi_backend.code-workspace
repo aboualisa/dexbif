@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../DEXBI2/dexbi_backend"
+		},
+		{
+			"path": "../DEXBI2/dexbi_frontend"
+		}
+	],
+	"settings": {}
+}
